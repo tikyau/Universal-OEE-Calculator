@@ -1,0 +1,15 @@
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\OEEAPI.csprojAssemblyReference.cache
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\OEEAPI.csproj.CoreCompileInputs.cache
+C:\Projects\OEEAPI\OEEAPI\bin\Debug\netcoreapp2.1\OEEAPI.deps.json
+C:\Projects\OEEAPI\OEEAPI\bin\Debug\netcoreapp2.1\OEEAPI.runtimeconfig.json
+C:\Projects\OEEAPI\OEEAPI\bin\Debug\netcoreapp2.1\OEEAPI.runtimeconfig.dev.json
+C:\Projects\OEEAPI\OEEAPI\bin\Debug\netcoreapp2.1\OEEAPI.dll
+C:\Projects\OEEAPI\OEEAPI\bin\Debug\netcoreapp2.1\OEEAPI.pdb
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\OEEAPI.RazorAssemblyInfo.cache
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\OEEAPI.RazorAssemblyInfo.cs
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\OEEAPI.AssemblyInfoInputs.cache
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\OEEAPI.AssemblyInfo.cs
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\OEEAPI.RazorTargetAssemblyInfo.cache
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\OEEAPI.dll
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\OEEAPI.pdb
+C:\Projects\OEEAPI\OEEAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
